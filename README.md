@@ -1,5 +1,7 @@
 # Data Sets :rocket:
 
+![Build](https://github.com/InnovativeInventor/datasets_directory/workflows/Build/badge.svg)
+
 **What is "open data"?** 
 
 [Here is a good definition and discussion of the term OPEN DATA](https://opendatahandbook.org/guide/en/what-is-open-data/)
